@@ -22,7 +22,7 @@ Message red dot count solution - 消息红点计数解决方案
  Step 2. Add the dependency
  
     dependencies {
-        compile 'com.github.chendongde310:SuperBadge:latest.release'
+        implementation 'com.github.chendongde310:SuperBadge:latest.release'
     }
   
 
@@ -87,4 +87,3 @@ Message red dot count solution - 消息红点计数解决方案
 * 增加将节点标记为未读状态功能（+1s）
 * 桌面（APP图标）角标显示
 
-         
